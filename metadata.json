@@ -1,0 +1,5 @@
+{
+  "name": "Cognitive Bias Miner",
+  "description": "Cognitive Bias Detection in Online Discussions using Data Mining - An academic prototype analyzing Confirmation and Negativity Bias.",
+  "requestFramePermissions": []
+}
